@@ -1,0 +1,11 @@
+{
+  "name": "J4YDENBot",
+  "version": "1.0.0",
+  "description": "J4YDENBot is a bot made for J4YDEN's Server.",
+  "main": "bot.js",
+  "author": "J4YDEN",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
